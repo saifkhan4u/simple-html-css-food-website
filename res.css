@@ -1,0 +1,30 @@
+/*Navigation*/
+#navbar{
+	flex-direction: column;
+}
+/*Home section*/
+
+#home{
+}
+
+
+
+
+/*Services section*/
+#services{
+}
+
+#sevices .box{
+	 flex-direction: column;
+}
+/*clinet section*/
+
+#cleint{
+	overflow: hidden;
+}
+
+/*Contact section*/
+
+
+
+/*Footer*/
